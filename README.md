@@ -25,3 +25,13 @@ Para o treinamento da MLP, foi utilizado o algoritmo de otimização Adam, que �
 ### Resultados
 
 A fazer...
+
+### Como executar
+
+Para executar o projeto, é necessário ter instalado o Python, nesse projeto foi usado o python 3.8.0 e as bibliotecas disponibilizadas no arquivo requirements.txt. Para instalar as bibliotecas, basta executar o comando abaixo:
+
+```
+pip install -r requirements.txt
+```
+
+Execute em um notebook ou IDE de sua preferência o arquivo rede_neural_artificial.ipynb.
