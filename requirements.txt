@@ -1,7 +1,11 @@
 opencv-python
-numpy
+tensorflow
 pandas
 seaborn
+scikit-learn
+numpy
 matplotlib
 Pillow
-tensorflow
+Keras
+ipython 
+ipykernel
