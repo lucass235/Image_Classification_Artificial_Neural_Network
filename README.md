@@ -24,7 +24,7 @@
 
 ### Resultados
 
-A fazer...
+- Foi obtido uma acurácia de 72,97% no conjunto de treino e 70,27% no conjunto de teste. A acurácia é a métrica utilizada para avaliar o modelo de classificação binária, sendo a porcentagem de acertos do modelo. A acurácia é uma métrica de avaliação do modelo de classificação binária, pois o objetivo do modelo é classificar os dados de entrada em 2 classes, sendo elas: 0 para homer e 1 para bart.
 
 ### Como executar
 
